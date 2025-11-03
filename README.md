@@ -1,8 +1,5 @@
-<h1 align="center">Hi there, I'm [Twoje Imię] 👋</h1>
-<p align="center">
-  Programista specjalizujący się w [np. backendzie / rozwiązaniach chmurowych / full-stacku]. <br>
-  Obecnie skupiam się na nauce [np. Kubernetesa] i szukam nowych wyzwań!
-</p>
+<h1 align="center">Hi there</h1>
+
 
 <h3 align="center">My Tech Stack:</h3>
 <p align="center">
