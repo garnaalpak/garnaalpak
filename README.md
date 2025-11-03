@@ -1,5 +1,5 @@
 <h1 align="center">Hi there</h1>
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2496ED,100:3776AB&height=200&section=header&text=Witaj%20na%20moim%20GitHubie!&fontSize=40&fontColor=fff&animation=fadeIn)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=granek-ux&label=Profile%20views&color=0e75b6&style=flat" alt="granek-ux" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
