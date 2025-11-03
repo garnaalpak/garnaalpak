@@ -17,7 +17,11 @@
 
 ### 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,docker,gcp,java,js,mysql,nodejs,oracle,python,spring&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,docker,gcp,java,js,mysql,nodejs,python,spring&theme=dark" />
+  
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+  </a>
 </p>
 
 ---
