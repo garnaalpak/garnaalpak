@@ -1,10 +1,8 @@
-<!-- 🌊 HEADER BANER -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2496ED,100:61DAFB&height=200&section=header&text=Hi%20there%20👋%20I'm%20Granek!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2496ED,100:61DAFB&height=180&section=header&text=Hi%20there%20👋%20I'm%20Granek!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
-<!-- 👋 WELCOME TEXT -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=61DAFB&width=600&lines=Software+Developer;Backend+Engineer;Cloud+and+Docker+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Software+Developer;Backend+Engineer;Cloud+and+Docker+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
   </a>
 </p>
 
@@ -52,7 +50,6 @@
   </a>
 </p>
 
-
 ---
 
 ### 📈 My GitHub Stats
@@ -96,4 +93,5 @@
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:2496ED&height=120&section=footer)
+<!-- 🌊 FOOTER BANER -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2496ED,100:61DAFB&height=180&section=footer)
