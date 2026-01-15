@@ -1,9 +1,9 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2496ED,100:61DAFB&height=200&section=header&text=Hi%20there%20👋%20I'm%20Garnaalpak!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2496ED,100:61DAFB&height=200&section=header&text=Hi,%20I'm%20Garnaalpak!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=61DAFB&width=600&lines=Software+Developer;Backend+Engineer;Cloud+and+Docker+Enthusiast;Always+learning+new+things"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=61DAFB&width=600&lines=Computer+Science+Student+at+PJATK;Fullstack+Developer;Backend+Engineer;"
       alt="Typing SVG"
     />
   </a>
@@ -17,8 +17,7 @@
 
 ### Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,docker,gcp,java,js,mysql,nodejs,python,spring&theme=dark" />
-  
+  <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,cs,js,react,nodejs,mysql,gcp,docker&theme=dark" />
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
   </a>
